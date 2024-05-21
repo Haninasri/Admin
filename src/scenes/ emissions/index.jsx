@@ -11,7 +11,6 @@ const Emissions = () => {
     <Box m="20px">
       <Box height="75vh">
         <EmissIons/>
-        <Piechart/>
       </Box>
     </Box>
   );
